@@ -14,3 +14,8 @@ a {
 * {
   box-sizing: border-box;
 }
+.fragment-div{
+  position: relative;
+  height: 100%;
+  overflow-x: hidden;
+}

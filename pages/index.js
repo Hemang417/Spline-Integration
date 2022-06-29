@@ -3,8 +3,9 @@ import { Fragment } from 'react';
 
 function HomePage() {
   return (
-
+    <Fragment className="fragment-div">
       <DashboardUI />
+    </Fragment>
     
   )
 }
